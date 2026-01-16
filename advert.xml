@@ -6,6 +6,10 @@
         <status>active</status>
         <rubric>3529</rubric>
         <district>5731</district>
+        <geometry>
+            <latitude>34.732</latitude>
+            <longitude>33.001</longitude>
+        </geometry>
         <phone_hide>0</phone_hide>
         <disallow_chat>1</disallow_chat>
         <negotiable_price>0</negotiable_price>
