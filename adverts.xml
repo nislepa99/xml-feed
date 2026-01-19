@@ -297,37 +297,4 @@
             <type>5</type>
         </attrs>
     </list-item>
-    <list-item>
-        <external_id>4120</external_id>
-        <last_update>2026-01-16 15:12:38</last_update>
-        <status>active</status>
-        <rubric>3529</rubric>
-        <district>5202</district>
-        <phone_hide>0</phone_hide>
-        <disallow_chat>1</disallow_chat>
-        <negotiable_price>0</negotiable_price>
-        <exchange>0</exchange>
-        <price>1080</price>
-        <title>Apartment in Panthea10</title>
-        <description>3300eur.</description>
-        <images>
-            <list-item>https://estbd.io/1:1d7b40b8/1698/68825b81a32bf.jpg/hd1080</list-item>
-            <list-item>https://estbd.io/1:1d7b40b8/1698/68825b81ca560.jpg/hd1080</list-item>
-            <list-item>https://estbd.io/1:1d7b40b8/1698/68825b81f10b8.jpg/hd1080</list-item>
-            <list-item>https://estbd.io/1:1d7b40b8/1698/68825b81c474e.jpg/hd1080</list-item>
-        </images>
-        <attrs>
-            <online-viewing>20</online-viewing>
-            <air-conditioning>1</air-conditioning>
-            <area>145</area>
-            <energy-efficiency>10</energy-efficiency>
-            <floor>30</floor>
-            <furnishing>4</furnishing>
-            <must-haves>4,7,10</must-haves>
-            <number-of-bathrooms>1</number-of-bathrooms>
-            <number-of-bedrooms>3</number-of-bedrooms>
-            <parking>1</parking>
-            <type>5</type>
-        </attrs>
-    </list-item>
 </root>
