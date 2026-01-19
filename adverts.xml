@@ -318,10 +318,10 @@
         </images>
         <attrs>
             <online-viewing>20</online-viewing>
-            <air-conditioning>0</air-conditioning>
+            <air-conditioning>1</air-conditioning>
             <area>145</area>
-            <energy-efficiency>9</energy-efficiency>
-            <floor>3</floor>
+            <energy-efficiency>10</energy-efficiency>
+            <floor>30</floor>
             <furnishing>4</furnishing>
             <must-haves>4,7,10</must-haves>
             <number-of-bathrooms>1</number-of-bathrooms>
